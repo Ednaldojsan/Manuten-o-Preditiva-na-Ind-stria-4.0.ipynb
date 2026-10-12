@@ -49,8 +49,8 @@ Cálculo e exibição das métricas de acurácia de ambos os modelos utilizando 
 ## 🚀 Como Executar o Sistema
 1. Acesse o [Google Colab](https://colab.research.google.com/drive/1RKa7TNKBlQPu4r9oSDLjcbfNx4p8HgAh#scrollTo=SXvIw_E86-Ax).
 2. Abra o notebook Jupyter contendo o código estruturado.
-3. O pipeline fará o download automatizado do dataset a partir do repositório oficial da UCI.
-4. Execute as células em ordem sequencial. O pipeline gerará os gráficos na saída e exportará o arquivo `requirements.txt`.
+3. O script fará a requisição automática dos dados diretamente do repositório estável da UCI Machine Learning Repository através da URL oficial, dispensando uploads manuais e eliminando falhas de arquivos locais ausentes.
+4. Execute as células em ordem sequencial para processar o pipeline das 7 fases.
 
 ## 🎥 Vídeo de Demonstração
 * [Link do vídeo explicativo hospedado no Google Drive](INSIRA_O_LINK_DO_SEU_DRIVE_AQUI)
