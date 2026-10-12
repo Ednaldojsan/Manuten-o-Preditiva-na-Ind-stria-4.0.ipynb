@@ -47,7 +47,7 @@ Cálculo e exibição das métricas de acurácia de ambos os modelos utilizando 
 * Imbalanced-Learn (Balanceamento via SMOTE)
 
 ## 🚀 Como Executar o Sistema
-1. Acesse o [Google Colab](https://google.com).
+1. Acesse o [Google Colab](https://colab.research.google.com/drive/1RKa7TNKBlQPu4r9oSDLjcbfNx4p8HgAh#scrollTo=SXvIw_E86-Ax).
 2. Abra o notebook Jupyter contendo o código estruturado.
 3. O pipeline fará o download automatizado do dataset a partir do repositório oficial da UCI.
 4. Execute as células em ordem sequencial. O pipeline gerará os gráficos na saída e exportará o arquivo `requirements.txt`.
