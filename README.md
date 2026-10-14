@@ -53,7 +53,7 @@ Cálculo e exibição das métricas de acurácia de ambos os modelos utilizando 
 4. Execute as células em ordem sequencial para processar o pipeline das 7 fases.
 
 ## 🎥 Vídeo de Demonstração
-* [Link do vídeo explicativo hospedado no Google Drive](INSIRA_O_LINK_DO_SEU_DRIVE_AQUI)
+* [Link do vídeo explicativo hospedado no Google Drive](https://drive.google.com/file/d/1J4b1HSjK1vikC8GOc3y2HYdTc-OqBaYJ/view?usp=sharing)
 
 ---
 *Projeto individual desenvolvido para a Situação de Aprendizagem de IA — SCTEC.*
